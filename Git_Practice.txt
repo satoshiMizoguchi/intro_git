@@ -6,3 +6,4 @@ Gitの練習をしていきます。
 ・git rm
 こちらだけcommitします
 ・git status
+・git diff
